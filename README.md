@@ -2,7 +2,7 @@
 - 👀 estou interesado em aprender mais sobre programaçao e criar jogos
 - 🌱 eu estou estudando sobre como criar jogos em varios tipos de plataformas
 -:dog: meu gmail de contato é julio.storto@escola.pr.gov.br
--
+-vou estar começando a utilizar mais a plataforma do github 
 
 <!---
 zl0w/zl0w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
